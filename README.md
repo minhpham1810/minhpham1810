@@ -6,15 +6,10 @@
 </p>
 
 ## About me
-	
 - A passionate and aspiring software developer
-	
 - Personal website [link](https://minhpham1810.github.io/)
-  
 - I’m currently open for Summer 2026 Internships, this is [my resume](https://drive.google.com/file/d/1ANIRSn_HkScB1Tqe1gk_hfot6rBM1Zrg/view?usp=drive_link)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
