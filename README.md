@@ -33,6 +33,7 @@ I enjoy building clean, modern web applications and learning new technologies.
 ### Cloud / Deployment
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-327FC7?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
