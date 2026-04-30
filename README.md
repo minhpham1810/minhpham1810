@@ -5,7 +5,7 @@ I enjoy building clean, modern web applications and learning new technologies.
 
 ## About Me
 - 🌐 Website: https://minhpham1810.github.io/
-- 📄 Resume: [https://drive.google.com/file/d/1ANIRSn_HkScB1Tqe1gk_hfot6rBM1Zrg/view?usp=drive_link](https://drive.google.com/file/d/1ld_USYDVzLMvmJgtRGYuaUSWGUAU2Ex3/view?usp=sharing)
+- 📄 Resume: [Click here](https://drive.google.com/file/d/1rNd_H9fLWWmmH7zTViRTOYi-waebzB-o/view?usp=sharing)
 - 💼 Open to Summer 2026 internships
 
 ---
