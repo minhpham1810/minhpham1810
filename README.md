@@ -15,5 +15,4 @@ I work primarily with **TypeScript, React, Next.js, Python, Java, C, and Go**. I
 
 * Full-stack product development
 * AI and LLM applications
-* C/C++ and systems programming
 * Open-source software
