@@ -2,7 +2,7 @@
 
 Computer Science student at Bucknell University building full-stack, AI-powered, and systems-focused software.
 
-I work primarily with **TypeScript, React, Next.js, Python, Java, C, and Go**. I’m also an active open-source contributor and enjoy learning new technologies by building real products.
+I work primarily with **TypeScript/JavaScript, React, Next.js, Python, Java, and C**. I’m also an active open-source contributor and enjoy learning new technologies by building real products.
 
 ### Links
 
