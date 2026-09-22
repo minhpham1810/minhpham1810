@@ -7,7 +7,7 @@ I work primarily with **TypeScript/JavaScript, React, Next.js, Python, Java, and
 ### Links
 
 * [Portfolio](https://minhpham1810.github.io/)
-* [Resume](https://drive.google.com/file/d/1gg3glk4Xs404mvrN1E7803Um-MahwRes/view?usp=drive_link)
+* [Resume](https://drive.google.com/file/d/11O6luTM8U11YWlVV34VMQCn2Wr9JrxqZ/view?usp=sharing)
 * [LinkedIn](https://www.linkedin.com/in/khoaminhpham18/)
 * [Email](mailto:minhpham181004@gmail.com)
 
