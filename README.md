@@ -20,7 +20,6 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 | **Apache Sedona** | Preserved explicit no-CRS metadata for locally constructed GeoSeries and GeoDataFrames, avoiding unnecessary distributed SRID discovery. | [#3279](https://github.com/apache/sedona/pull/3279) |
 | **GA4GH Tool Registry Service** | Corrected the OpenAPI bearer authentication scheme so API documentation and generated clients use native HTTP bearer authentication. | [#280](https://github.com/ga4gh/tool-registry-service-schemas/pull/280) |
 | **Harbor Satellite** | Added a Go Report Card badge to make the project's Go code quality report accessible from its README. | [#328](https://github.com/container-registry/harbor-satellite/pull/328) |
-| **Holinshed / DCDS** | Improved the research project's local setup with dependency installation, a virtual-environment-aware launcher, and organized extraction output. | [#5](https://github.com/holinshed-project/DCDS-Fa2026/pull/5) |
 
 ### Open pull requests
 
