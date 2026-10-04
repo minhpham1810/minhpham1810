@@ -74,6 +74,8 @@ Built an application that combines Spotify search with an agent that researches 
 
 Developed with a four-person team connecting a BME688 sensor, a Python freshness engine, FastAPI, and an Expo mobile app.
 
+**SASEhack 2026:** Best First Hack award; Pitch Competition finalist recognition (SASEhack Hat).
+
 - Tracks temperature exposure, estimates remaining freshness, and supports label scanning and a local tool-calling assistant.
 - Includes telemetry simulation and tests for the engine and API. This is an experimental waste-reduction prototype; its estimates have not been validated as food-safety measurements.
 
