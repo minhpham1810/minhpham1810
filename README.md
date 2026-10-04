@@ -44,10 +44,20 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 ## Highlighted projects
 
+### [Freshness Tracker](https://github.com/minhpham1810/food-tracker)
+**A hardware-to-mobile food-waste prototype**
+
+Developed with a four-person team connecting a BME688 sensor, a Python freshness engine, FastAPI, and an Expo mobile app.
+
+**🏆 SASEhack 2026:** Best First Hack award; Pitch Competition finalist recognition.
+
+- Tracks temperature exposure, estimates remaining freshness, and supports label scanning and a local tool-calling assistant.
+- Includes telemetry simulation and tests for the engine and API. This is an experimental waste-reduction prototype; its estimates have not been validated as food-safety measurements.
+
 ### [KALMUS Web](https://github.com/minhpham1810/kalmus_web)
 **Film color analysis for researchers**
 
-Built with a three-person team under a faculty mentor. The application lets researchers upload films, submit processing jobs to an HPC cluster, and explore color barcodes and interactive visualizations in a browser.
+Built with a three-person team under a faculty mentor. The application lets students and researchers upload films, submit processing jobs to an HPC cluster, and explore color barcodes and interactive visualizations in a browser.
 
 - My work includes the web interface, visualization interactions, live barcode previews, and side-by-side comparisons.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
@@ -58,7 +68,6 @@ Built with a three-person team under a faculty mentor. The application lets rese
 Built with a three-person team for Bucknell's Office of Institutional Research and Analytics, supervised by a full-time staff member.
 
 - Contributed to document retrieval, academic planning, conversation memory, and the chat interface.
-- Proposed backend refactors separating API routes, services, and data access: [#3 (open)](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/3), [#2 (closed, unmerged)](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/2), and [#1 (closed, unmerged)](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/1).
 - Uses FastAPI, LangChain, ChromaDB, SQLite, and Next.js for retrieval, cited answers, and persistent conversations.
 
 ### [SpotOn](https://github.com/minhpham1810/SpotOn)
@@ -68,16 +77,6 @@ Built an application that combines Spotify search with an agent that researches 
 
 - Streams research progress and cited reports over server-sent events, with findings labeled verified, inferred, or speculative.
 - Includes Spotify OAuth, token refresh, interactive song reports, and cached research results.
-
-### [Freshness Tracker](https://github.com/minhpham1810/food-tracker)
-**A hardware-to-mobile food-waste prototype**
-
-Developed with a four-person team connecting a BME688 sensor, a Python freshness engine, FastAPI, and an Expo mobile app.
-
-**SASEhack 2026:** Best First Hack award; Pitch Competition finalist recognition (SASEhack Hat).
-
-- Tracks temperature exposure, estimates remaining freshness, and supports label scanning and a local tool-calling assistant.
-- Includes telemetry simulation and tests for the engine and API. This is an experimental waste-reduction prototype; its estimates have not been validated as food-safety measurements.
 
 [Demo](https://www.youtube.com/watch?v=7eOdVOMNjco) · [Devpost](https://devpost.com/software/claudius-maximus)
 
