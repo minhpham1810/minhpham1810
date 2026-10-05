@@ -40,7 +40,7 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked October 1, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked October 5, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
 
@@ -50,6 +50,8 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 Developed with a four-person team connecting a BME688 sensor, a Python freshness engine, FastAPI, and an Expo mobile app.
 
 **🏆 SASEhack 2026: Best First Hack award; Pitch Competition finalist recognition.**
+
+[Demo](https://www.youtube.com/watch?v=7eOdVOMNjco) · [Devpost](https://devpost.com/software/claudius-maximus)
 
 - Tracks temperature exposure, estimates remaining freshness, and supports label scanning and a local tool-calling assistant.
 - Includes telemetry simulation and tests for the engine and API. This is an experimental waste-reduction prototype; its estimates have not been validated as food-safety measurements.
@@ -61,6 +63,7 @@ Built with a three-person team under a faculty mentor. The application lets stud
 
 - My work includes the web interface, visualization interactions, live barcode previews, and side-by-side comparisons.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
+- The application now supports searchable film-edition metadata and duplicate checks that distinguish different editions.
 
 ### [OIRA Academic Chatbot](https://github.com/Bucknell-OIRA/OIRA-Chatbot)
 **An assistant for Bucknell's course catalog and academic policies**
@@ -78,8 +81,6 @@ Built an application that combines Spotify search with an agent that researches 
 - Streams research progress and cited reports over server-sent events, with findings labeled verified, inferred, or speculative.
 - Includes Spotify OAuth, token refresh, interactive song reports, and cached research results.
 
-[Demo](https://www.youtube.com/watch?v=7eOdVOMNjco) · [Devpost](https://devpost.com/software/claudius-maximus)
-
 ### [unissh](https://github.com/minhpham1810/unissh)
 **Clipboard images to remote servers**
 
@@ -95,6 +96,14 @@ Developed with a four-person Scrum team to help users record moods, identify tri
 
 - Combines mood history and statistics with AI-generated wellness tips.
 - The original desktop application uses JavaFX, MongoDB, and the Gemini API.
+- The [web rewrite](https://github.com/minhpham1810/feelbit/tree/spring-react) uses Spring Boot, React, and PostgreSQL, with rotating refresh tokens, Flyway migrations, and Docker Compose setup.
+
+## University project contributions
+
+| Project | Contribution | Status | PR |
+| --- | --- | --- | --- |
+| **Holinshed / DCDS** | Added dependency and virtual-environment setup, a GUI launcher, ignore rules, and a dedicated directory for generated name-extraction output. | Merged | [#5](https://github.com/holinshed-project/DCDS-Fa2026/pull/5) |
+| **OIRA Academic Chatbot** | Proposed separating API routes, services, and data access, with dependency injection, repository interfaces, and dedicated retrieval and memory modules. | Open | [#3](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/3) |
 
 ## Tools I use
 
