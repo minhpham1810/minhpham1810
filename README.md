@@ -4,7 +4,7 @@ I'm a Computer Science and Data Science student at **Bucknell University**, grad
 
 I'm interested in **2027 new graduate software engineering roles**, especially backend, data, and AI engineering.
 
-[Portfolio](https://minhpham1810.github.io/) · [Resume](https://drive.google.com/file/d/11O6luTM8U11YWlVV34VMQCn2Wr9JrxqZ/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/khoaminhpham18/) · [Email](mailto:minhpham181004@gmail.com)
+[Portfolio](https://minhpham1810.github.io/) · [Resume](https://drive.google.com/file/d/1Dcb5HA9pne8-fP87cNLdjM0OXB_TuUjS/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/khoaminhpham18/) · [Email](mailto:minhpham181004@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhpham1810)](https://github.com/anuraghazra/github-readme-stats)
 
