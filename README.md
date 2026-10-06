@@ -6,6 +6,8 @@ I'm interested in **2027 new graduate software engineering roles**, especially b
 
 [Portfolio](https://minhpham1810.github.io/) · [Resume](https://drive.google.com/file/d/11O6luTM8U11YWlVV34VMQCn2Wr9JrxqZ/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/khoaminhpham18/) · [Email](mailto:minhpham181004@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhpham1810)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Open-source contributions
 
 My upstream work spans geospatial computing, graphics, API standards, cloud infrastructure, and scientific tooling. Each entry links to the actual pull request.
@@ -97,13 +99,6 @@ Developed with a four-person Scrum team to help users record moods, identify tri
 - Combines mood history and statistics with AI-generated wellness tips.
 - The original desktop application uses JavaFX, MongoDB, and the Gemini API.
 - The [web rewrite](https://github.com/minhpham1810/feelbit/tree/spring-react) uses Spring Boot, React, and PostgreSQL, with rotating refresh tokens, Flyway migrations, and Docker Compose setup.
-
-## University project contributions
-
-| Project | Contribution | Status | PR |
-| --- | --- | --- | --- |
-| **Holinshed / DCDS** | Added dependency and virtual-environment setup, a GUI launcher, ignore rules, and a dedicated directory for generated name-extraction output. | Merged | [#5](https://github.com/holinshed-project/DCDS-Fa2026/pull/5) |
-| **OIRA Academic Chatbot** | Proposed separating API routes, services, and data access, with dependency injection, repository interfaces, and dedicated retrieval and memory modules. | Open | [#3](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/3) |
 
 ## Tools I use
 
