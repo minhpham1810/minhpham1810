@@ -42,7 +42,7 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked October 5, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked October 12, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
 
@@ -63,7 +63,7 @@ Developed with a four-person team connecting a BME688 sensor, a Python freshness
 
 Built with a three-person team under a faculty mentor. The application lets students and researchers upload films, submit processing jobs to an HPC cluster, and explore color barcodes and interactive visualizations in a browser.
 
-- My work includes the web interface, visualization interactions, live barcode previews, and side-by-side comparisons.
+- My work includes the web interface, interactive visualizations, synchronized side-by-side comparisons, and barcode downloads for screens or high-resolution printing.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
 - The application now supports searchable film-edition metadata and duplicate checks that distinguish different editions.
 
@@ -82,6 +82,7 @@ Built an application that combines Spotify search with an agent that researches 
 
 - Streams research progress and cited reports over server-sent events, with findings labeled verified, inferred, or speculative.
 - Includes Spotify OAuth, token refresh, interactive song reports, and cached research results.
+- Generates shareable song-report cards with native share-sheet support and a PNG download fallback.
 
 ### [unissh](https://github.com/minhpham1810/unissh)
 **Clipboard images to remote servers**
