@@ -28,8 +28,6 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 | Project | Proposed contribution | PR |
 | --- | --- | --- |
 | **MaterialX** | Implemented node grouping that preserves internal and external connections, moved the operation into a reusable core API, and added tests plus a Shift+C editor shortcut. | [#3002](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3002) |
-| **ELIXIR Cloud FOCA** | Improved MongoDB environment-variable normalization, access-control startup logs, resource loading, and related tests. | [#256](https://github.com/elixir-cloud-aai/foca/pull/256) |
-| **ELIXIR Cloud FOCA** | Added complete `MONGO_URI` configuration with precedence checks, access-control setup logs, and deprecation cleanup. | [#257](https://github.com/elixir-cloud-aai/foca/pull/257) |
 | **FOSSASIA PSLab Python** | Added an in-memory connection handler and `ScienceLab(mock=True)` so development and initialization tests can run without physical hardware. | [#274](https://github.com/fossasia/pslab-python/pull/274) |
 
 <details>
@@ -37,12 +35,14 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 | Project | Proposed contribution | PR |
 | --- | --- | --- |
+| **ELIXIR Cloud FOCA** | Proposed normalizing MongoDB environment variables, adding access-control startup logs, modernizing resource loading, and extending tests. | [#256](https://github.com/elixir-cloud-aai/foca/pull/256) |
+| **ELIXIR Cloud FOCA** | Proposed complete `MONGO_URI` configuration with precedence checks, access-control setup logs, deprecation cleanup, documentation, and tests. | [#257](https://github.com/elixir-cloud-aai/foca/pull/257) |
 | **Apache Sedona** | Proposed filtering a known degenerate-collision stack trace to prevent straight-skeleton operations from flooding executor logs. | [#3280](https://github.com/apache/sedona/pull/3280) |
 | **Harbor Satellite** | Proposed centralizing password policy enforcement in the hashing function, with typed errors and updated handlers and tests. | [#331](https://github.com/container-registry/harbor-satellite/pull/331) |
 
 </details>
 
-*PR statuses checked October 12, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked October 19, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
 
