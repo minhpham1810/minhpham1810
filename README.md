@@ -42,9 +42,18 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked October 19, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked October 26, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
+
+### [ThuocTracker](https://github.com/minhpham1810/thuoctracker)
+**A connected medicine cabinet for patients, families, and doctors**
+
+Built at HackPSU Fall 2026 with a four-person team. The system links a Raspberry Pi cabinet and touchscreen with an Expo app, Next.js doctor dashboard, and FastAPI backend.
+
+- Built the doctor dashboard and cabinet touchscreen, including patient charts, medicine management, dose history, live alerts, and accessible cabinet controls.
+- Integrated Auth0 across the web, mobile, and backend.
+- Supports scheduled reminders, missed-dose and low-supply alerts, label scanning, and locally grounded voice questions while keeping dose changes under human control.
 
 ### [Freshness Tracker](https://github.com/minhpham1810/food-tracker)
 **A hardware-to-mobile food-waste prototype**
@@ -63,9 +72,9 @@ Developed with a four-person team connecting a BME688 sensor, a Python freshness
 
 Built with a three-person team under a faculty mentor. The application lets students and researchers upload films, submit processing jobs to an HPC cluster, and explore color barcodes and interactive visualizations in a browser.
 
-- My work includes the web interface, interactive visualizations, synchronized side-by-side comparisons, and barcode downloads for screens or high-resolution printing.
+- My work includes the web interface, interactive visualizations, synchronized side-by-side comparisons, barcode downloads for screens or high-resolution printing, and watermarking for public exports.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
-- The application now supports searchable film-edition metadata and duplicate checks that distinguish different editions.
+- The application now supports searchable film-edition metadata, duplicate checks that distinguish editions, and an interactive map that groups films by color and palette similarity.
 
 ### [OIRA Academic Chatbot](https://github.com/Bucknell-OIRA/OIRA-Chatbot)
 **An assistant for Bucknell's course catalog and academic policies**
