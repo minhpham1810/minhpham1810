@@ -42,7 +42,7 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked October 26, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked November 2, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
 
@@ -76,12 +76,21 @@ Built with a three-person team under a faculty mentor. The application lets stud
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
 - The application now supports searchable film-edition metadata, duplicate checks that distinguish editions, and an interactive map that groups films by color and palette similarity.
 
+### [A Kingdom of Names](https://github.com/holinshed-project/DCDS-Fa2026)
+**Mining people and places in the Holinshed Chronicles**
+
+Working through Bucknell's DCDS Student Fellows program on a factoidal prosopography built from the 1577 and 1587 TEI/XML editions.
+
+- Added reproducible local setup, a launcher, dependency tracking, ignored machine-specific state, and organized extraction outputs in merged [PR #5](https://github.com/holinshed-project/DCDS-Fa2026/pull/5).
+- Built an early-modern place-name normalization and counting notebook that filters source notes and title false positives, groups spelling variants, and finds the most frequent place in each monarch's reign in merged [PR #25](https://github.com/holinshed-project/DCDS-Fa2026/pull/25).
+
 ### [OIRA Academic Chatbot](https://github.com/Bucknell-OIRA/OIRA-Chatbot)
 **An assistant for Bucknell's course catalog and academic policies**
 
 Built with a three-person team for Bucknell's Office of Institutional Research and Analytics, supervised by a full-time staff member.
 
 - Contributed to document retrieval, academic planning, conversation memory, and the chat interface.
+- Open [PR #3](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/3) refactors the backend into typed FastAPI routes, services, repositories, and dependency injection while preserving chat, citations, streaming, sessions, feedback, and schedule workflows.
 - Uses FastAPI, LangChain, ChromaDB, SQLite, and Next.js for retrieval, cited answers, and persistent conversations.
 
 ### [SpotOn](https://github.com/minhpham1810/SpotOn)
@@ -90,7 +99,9 @@ Built with a three-person team for Bucknell's Office of Institutional Research a
 Built an application that combines Spotify search with an agent that researches songs through Spotify, Genius, and live web search.
 
 - Streams research progress and cited reports over server-sent events, with findings labeled verified, inferred, or speculative.
+- Traces sampling relationships through Genius and checks linked songs with a pitch- and tempo-invariant Python audio matcher, backed by synthetic tests and a held-out evaluation.
 - Includes Spotify OAuth, token refresh, interactive song reports, and cached research results.
+- Packages the app and matcher with Docker, exercises Kubernetes and Cloud Run deployments, and includes load tests, structured observability, vulnerability scanning, and a verified rollback drill.
 - Generates shareable song-report cards with native share-sheet support and a PNG download fallback.
 
 ### [unissh](https://github.com/minhpham1810/unissh)
