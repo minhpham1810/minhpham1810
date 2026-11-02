@@ -6,8 +6,6 @@ I'm interested in **2027 new graduate software engineering roles**, especially b
 
 [Portfolio](https://minhpham1810.github.io/) · [Resume](https://drive.google.com/file/d/1aR_fpbziSthGFP3z1JPHv-GsRbCeaYDS/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/khoaminhpham18/) · [Email](mailto:minhpham181004@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhpham1810)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Open-source contributions
 
 My upstream work spans geospatial computing, graphics, API standards, cloud infrastructure, and scientific tooling. Each entry links to the actual pull request.
