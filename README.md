@@ -40,9 +40,20 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked November 2, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked November 9, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
+
+### [Umbra](https://github.com/minhpham1810/umbra)
+**A deterministic TypeScript game engine for AI agents**
+
+Built a 2D/3D engine with schema-validated components, optional Rapier physics, checkpoints, and replayable runs in Node and the browser.
+
+[Docs](https://minhpham1810.github.io/umbra/) · [Playground](https://minhpham1810.github.io/umbra/playground/) · [Replay Studio](https://minhpham1810.github.io/umbra/studio/)
+
+- Built agent tools for headless playtesting, checkpoint-based route search, and replay verification, exposed through an MCP server.
+- Added a browser Studio to scrub recorded runs, inspect state, and compare failing and repaired platformer replays.
+- Includes Canvas 2D and Three.js views, playable examples, and CI checks comparing simulation hashes across Node and Chromium.
 
 ### [ThuocTracker](https://github.com/minhpham1810/thuoctracker)
 **A connected medicine cabinet for patients, families, and doctors**
@@ -73,6 +84,7 @@ Built with a three-person team under a faculty mentor. The application lets stud
 - My work includes the web interface, interactive visualizations, synchronized side-by-side comparisons, barcode downloads for screens or high-resolution printing, and watermarking for public exports.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
 - The application now supports searchable film-edition metadata, duplicate checks that distinguish editions, and an interactive map that groups films by color and palette similarity.
+- Added a film request queue with saved analysis settings, duplicate-request grouping, admin review, and subscriber emails when requests are accepted, declined, or completed.
 
 ### [A Kingdom of Names](https://github.com/holinshed-project/DCDS-Fa2026)
 **Mining people and places in the Holinshed Chronicles**
