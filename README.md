@@ -40,7 +40,7 @@ My upstream work spans geospatial computing, graphics, API standards, cloud infr
 
 </details>
 
-*PR statuses checked November 9, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
+*PR statuses checked November 16, 2026. [All authored pull requests](https://github.com/pulls?q=is%3Apr+author%3Aminhpham1810).*
 
 ## Highlighted projects
 
@@ -83,7 +83,7 @@ Built with a three-person team under a faculty mentor. The application lets stud
 
 - My work includes the web interface, interactive visualizations, synchronized side-by-side comparisons, barcode downloads for screens or high-resolution printing, and watermarking for public exports.
 - The system connects chunked video uploads, SLURM processing, and shared storage with Next.js, Python, and Plotly.
-- The application now supports searchable film-edition metadata, duplicate checks that distinguish editions, and an interactive map that groups films by color and palette similarity.
+- The application now supports searchable film-edition metadata, duplicate checks that distinguish editions, and an interactive map that groups films by color and palette similarity. Recent team updates add film selection, year and brightness filters, and a Most-vivid color metric.
 - Added a film request queue with saved analysis settings, duplicate-request grouping, admin review, and subscriber emails when requests are accepted, declined, or completed.
 
 ### [A Kingdom of Names](https://github.com/holinshed-project/DCDS-Fa2026)
@@ -93,6 +93,7 @@ Working through Bucknell's DCDS Student Fellows program on a factoidal prosopogr
 
 - Added reproducible local setup, a launcher, dependency tracking, ignored machine-specific state, and organized extraction outputs in merged [PR #5](https://github.com/holinshed-project/DCDS-Fa2026/pull/5).
 - Built an early-modern place-name normalization and counting notebook that filters source notes and title false positives, groups spelling variants, and finds the most frequent place in each monarch's reign in merged [PR #25](https://github.com/holinshed-project/DCDS-Fa2026/pull/25).
+- Consolidated place counting into a reusable Python module with TEI note filtering, title exclusion, confidence filtering, and an alias table that combines historical spellings in merged [PR #26](https://github.com/holinshed-project/DCDS-Fa2026/pull/26).
 
 ### [OIRA Academic Chatbot](https://github.com/Bucknell-OIRA/OIRA-Chatbot)
 **An assistant for Bucknell's course catalog and academic policies**
@@ -102,6 +103,16 @@ Built with a three-person team for Bucknell's Office of Institutional Research a
 - Contributed to document retrieval, academic planning, conversation memory, and the chat interface.
 - Open [PR #3](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/3) refactors the backend into typed FastAPI routes, services, repositories, and dependency injection while preserving chat, citations, streaming, sessions, feedback, and schedule workflows.
 - Uses FastAPI, LangChain, ChromaDB, SQLite, and Next.js for retrieval, cited answers, and persistent conversations.
+
+<details>
+<summary>Earlier OIRA proposals (closed, not merged)</summary>
+
+| Proposed contribution | PR |
+| --- | --- |
+| Extracted shared JSON parsing helpers, made citation PDF URLs configurable, and removed conflict markers from a fallback response. | [#1](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/1) |
+| Reorganized backend routes, settings, database access, and retrieval ingestion into separate modules with compatibility wrappers. | [#2](https://github.com/Bucknell-OIRA/OIRA-Chatbot/pull/2) |
+
+</details>
 
 ### [SpotOn](https://github.com/minhpham1810/SpotOn)
 **Music discovery with an AI research agent**
